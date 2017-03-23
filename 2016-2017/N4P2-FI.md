@@ -1,15 +1,15 @@
-# Nom du projet
+# Mimoosa
 
-Description / proposition de valeur unique
+
 
 ## Équipe
 
-* Nom Prénom
-* etc.
+* Capon Théo, Lecomte Adrien, Dieu Emeline, Plouvin Margot, Peron Quentin, Bette Guillaume
+
 
 ## Resources
 
-* git serveur + js : 
-* git android : 
+* git serveur :https://github.com/Kisuma/jersey-skeleton.git
+
 
 
